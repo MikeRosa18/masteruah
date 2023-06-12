@@ -15,16 +15,16 @@
 10. git add 2.txt
 11. git commit -m "Añadir fichero 2.txt a la rama v0.2"
 12. git push -u origin v0.2
-13. git checkout main
+13. git checkout master
 14. git merge v0.2
 15. echo "Hola" > 1.txt
 16. git add 1.txt
-17. git commit -m " Agregado hola en fichero 1.txt en la rama main"
+17. git commit -m " Agregado hola en fichero 1.txt en la rama master"
 18. git checkout v0.2
 19. echo "Adios" > 1.txt
 20. git add 1.txt
 21. git commit -m "Agregado adios en fichero 1.txt en la rama v0.2"
-22. git checkout main
+22. git checkout master
 23. git merge v0.2
 24. git branch --merge
 25. git branch --no-merge

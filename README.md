@@ -42,14 +42,6 @@
 37. git merge v0.2
 38. git push
 
-## Configurando SSH
-
-<img src="ssh.png"/>
-
-## Configurando doble factor de autenticación
-
-<img src="doblefactor.png"/>
-
 
 ## COLABORADORES
 

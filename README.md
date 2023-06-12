@@ -58,3 +58,9 @@
 |Jose David |[http://github.com/i12vecaj] |
 |Jose David |[http://github.com/i12vecaj] |
 |Jose David |[http://github.com/i12vecaj] |
+
+
+## Configurando doble factor de autenticación
+
+![image](https://github.com/MikeRosa18/masteruah/assets/128582695/1600a8c9-2895-4bcf-a685-9234f7850e41)
+
